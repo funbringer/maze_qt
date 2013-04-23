@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="maze">
+      <file alias="wall">Resources/wall.png</file>
+      <file alias="ball">Resources/ball.png</file>
+    </qresource>
+</RCC>
